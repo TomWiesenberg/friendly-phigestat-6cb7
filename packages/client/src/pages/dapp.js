@@ -37,6 +37,7 @@ export default class DappPage extends LitElement {
           <h2 class="text-6xl">🎉 Happy Birthday!!</h2>
           <p class="mt-3">
           Haruki and I were gonna mint an NFT but that was way too hard. Thought this would be good though. More importantly, hope your birthday is great :))))))
+          Your next step is to go to this link and run the code: http://www.columbia.edu/~hg2541/fishing.py
           </p>
           <p class="mt-3">
             You are currently viewing your Dapp in the DappStarter Workspace which 
