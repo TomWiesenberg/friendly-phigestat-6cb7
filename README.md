@@ -1,6 +1,8 @@
 # JACOB READ THIS
 
-Sooo, you just got to follow the instructions below. Have fun! 
+Sooo, you just got to follow the instructions below. Have fun!
+
+P.S. don't look at the commited changes bc that will make me sad
 
 # Pre-requisites
 
