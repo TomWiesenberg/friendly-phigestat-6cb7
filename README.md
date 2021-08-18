@@ -1,6 +1,6 @@
-# My Dapp
+# JACOB READ THIS
 
-This project is for the blockchain application My Dapp. It contains code for the Smart Contract, web-based dapp and NodeJS server. 
+Sooo, you just got to follow the instructions below. Have fun! 
 
 # Pre-requisites
 
