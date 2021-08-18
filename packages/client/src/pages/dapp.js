@@ -34,10 +34,9 @@ export default class DappPage extends LitElement {
     let content = html`
       <div class="container m-auto">
         <div class="row fadeIn mt-3 p-2 block">
-          <h2 class="text-6xl">🎉 Dappiness!</h2>
+          <h2 class="text-6xl">🎉 Happy Birthday!!</h2>
           <p class="mt-3">
-            Your Dapp is ready, and the world is waiting for you to create
-            something amazing.
+          Haruki and I were gonna mint an NFT but that was way too hard. Thought this would be good though. More importantly, hope your birthday is great :))))))
           </p>
           <p class="mt-3">
             You are currently viewing your Dapp in the DappStarter Workspace which 
